@@ -195,6 +195,6 @@ requirejs.config({
           var a = e(this)[0];
           a.paused && a.play();
         }),
-      t(),
-      m() && c();
+      t();
+    //   m() && c();
   });
