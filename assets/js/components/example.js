@@ -1,1 +1,1 @@
-define("example",["queue"],function(e){function n(){this.name="Example"}return n});
+define("example",["queue"],function(e){return function(){this.name="Example"}});
