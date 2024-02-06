@@ -7,6 +7,9 @@ This website can also be found on several peer-to-peer data sharing networks. To
 
  * On IPFS in a Chrome browser using the [IPFS Companion browser extension](https://chromewebstore.google.com/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch) or using [Brave browser](https://brave.com/) using the address **ipns://syriastreet.brandontauszik.com**
 * On the Hyper network using [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser/releases) at **hyper://syriastreet.brandontauszik.com**
+
+## Archives
+Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. You can view the registration records of the of the [main](https://bafkreifa3n2n2qhsmykjwjayir3gukffwvh5edjfjp63v6vfhn6uko6yty.ipfs.w3s.link/) and [nov-16](https://bafybeihas2sbg2wvcq3zpnb3gcvlyhlc4g3ks3khtwr5cmtjjon22w5vea.ipfs.w3s.link/syria-street-nov-16-2023-12-14T17-19-17Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/syriastreet.com](https://github.com/link-rot-project/syriastreet.com). The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi](https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi)
   
 #### Project Goals
 This project aims to explore ways that a journalist can preserve the content they’ve created, either for an established publication or self-published. In addition to their own work, this could also include the preservation of subsequent articles that cover the journalist’s work (ex: to show impact or earned media).
