@@ -1,4 +1,13 @@
-This will be published on https://syriastreet.brandontauszik.com/
+This Website is hosted at https://syriastreet.brandontauszik.com/
+
+## Web3 Hosting
+This website can also be found on several peer-to-peer data sharing networks. To access these networks you can
+* Use a gateway and acccess it through the 'regular internet' (in any web browser) at [https://syriastreet-brandontauszik-com.ipns.ipfs.hypha.coop/](https://syriastreet-brandontauszik-com.ipns.ipfs.hypha.coop/) or at [https://syriastreet-brandontauszik-com.hyper.hypha.coop/](https://syriastreet-brandontauszik-com.hyper.hypha.coop/
+)
+
+ * On IPFS in a Chrome browser using the [IPFS Companion browser extension](https://chromewebstore.google.com/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch) or using [Brave browser](https://brave.com/) using the address **ipns://syriastreet.brandontauszik.com**
+* On the Hyper network using [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser/releases) at **hyper://syriastreet.brandontauszik.com**
+  
 #### Project Goals
 This project aims to explore ways that a journalist can preserve the content they’ve created, either for an established publication or self-published. In addition to their own work, this could also include the preservation of subsequent articles that cover the journalist’s work (ex: to show impact or earned media).
 
