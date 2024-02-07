@@ -13,4 +13,4 @@ jobs:
         version: 8
         run_install: true
     - name: "Run"
-      run: "./node_modules/.bin/hyperlink -r ."
+      run: "./node_modules/.bin/hyperlink --root $PWD -r ."
