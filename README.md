@@ -1,8 +1,7 @@
-# Archived and Moved to [https://github.com/facinglife-syriastreet/syriastreet.brandontauszik.com/tree/main](https://github.com/facinglife-syriastreet/syriastreet.brandontauszik.com/tree/main)
+This will be published on https://syriastreet.brandontauszik.com/
 
 icrc-syria-st-distrib
 =====================
-This will be published on https://syriastreet.brandontauszik.com/
 
 ## Web3 Publication Links
 
