@@ -15,7 +15,7 @@ A backup of this git repository has also been created and stored on IPFS as an a
 Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. You can view the:
 * Registration records of the of the [main](https://bafkreifa3n2n2qhsmykjwjayir3gukffwvh5edjfjp63v6vfhn6uko6yty.ipfs.w3s.link/) and [nov-16](https://bafybeihas2sbg2wvcq3zpnb3gcvlyhlc4g3ks3khtwr5cmtjjon22w5vea.ipfs.w3s.link/syria-street-nov-16-2023-12-14T17-19-17Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/syriastreet.com](https://github.com/link-rot-project/syriastreet.com). 
 * The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi](https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi)
-* Copies of the repositories for the [main]() and [nov-16]() branches that were acrhived. 
+* Copies of the repositories for the [main]() and [nov-16]() branches that were archived. (to be updated)
 
 If you look at the [main registration manifest](https://bafkreifa3n2n2qhsmykjwjayir3gukffwvh5edjfjp63v6vfhn6uko6yty.ipfs.w3s.link/), you can see that the 'cid' field of the 'content' piece of the manifest has the same value as the CID that is stored on IPFS.
 
