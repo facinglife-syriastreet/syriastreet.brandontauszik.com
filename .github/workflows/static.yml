@@ -6,7 +6,7 @@ on:
   push:
     branches:
     - "main"
-    - "syriastreet.dev.starlinglab.org"
+    - "syriastreet.brandontauszik.com"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -47,7 +47,7 @@ jobs:
         uses: actions/deploy-pages@v4
       - name: "Publish to Distributed Press"
         uses: "hyphacoop/actions-distributed-press@v1.2"
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ github.ref == 'refs/heads/syriastreet.brandontauszik.com' }}
         with:
           publish_dir: "."
           dp_url: "https://api.distributed.press"
