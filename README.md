@@ -18,7 +18,10 @@ Archives of this zip of this Github repo have been registered on the Filecoin di
 * Copies of the repositories for the [main]() and [nov-16]() branches that were acrhived. 
 
 If you look at the [main registration manifest](https://bafkreifa3n2n2qhsmykjwjayir3gukffwvh5edjfjp63v6vfhn6uko6yty.ipfs.w3s.link/), you can see that the 'cid' field of the 'content' piece of the manifest has the same value as the CID that is stored on IPFS.
-  
+
+*IMAGE*  
+
+
 #### Project Goals
 This project aims to explore ways that a journalist can preserve the content they’ve created, either for an established publication or self-published. In addition to their own work, this could also include the preservation of subsequent articles that cover the journalist’s work (ex: to show impact or earned media).
 
