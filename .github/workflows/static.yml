@@ -45,6 +45,7 @@ jobs:
         uses: actions/deploy-pages@v4
       - name: "Publish to Distributed Press"
         uses: "hyphacoop/actions-distributed-press@v1.2"
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           publish_dir: "."
           dp_url: "https://api.distributed.press"
