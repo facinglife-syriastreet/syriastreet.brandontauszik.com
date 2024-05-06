@@ -3,7 +3,7 @@ This Website is hosted at https://syriastreet.brandontauszik.com/
 In this project, we sought to prototype a way to preserve and protect journalist’s work and portfolio from link rot. Link rot refers to the phenomenon in which hyperlinks or URLs on the internet become broken or inaccessible over time.
 
 ## Web3 Hosting
-This website can also be found on several peer-to-peer data sharing networks. To access these networks you can
+This website can also be found on several peer-to-peer data sharing networks. To access these networks you can:
 * Use a gateway and acccess it through the 'regular internet' (in any web browser) at [https://syriastreet-brandontauszik-com.ipns.ipfs.hypha.coop/](https://syriastreet-brandontauszik-com.ipns.ipfs.hypha.coop/) or at [https://syriastreet-brandontauszik-com.hyper.hypha.coop/](https://syriastreet-brandontauszik-com.hyper.hypha.coop/
 )
 
@@ -35,23 +35,11 @@ The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqa
 
 ^ This is a zip of the Git Repo that can be downloaded, and put onto any static website hosting service
   
-# Project Summary
-
-## Project Goals
-This project aims to explore ways that a journalist can preserve the content they’ve created, either for an established publication or self-published. In addition to their own work, this could also include the preservation of subsequent articles that cover the journalist’s work (ex: to show impact or earned media).
-
-## Challenge
-As an independent journalist, Brandon’s work is often vulnerable to disappearing from the internet. Even when published by a large outlet like the Red Cross, the maintenance and hosting of his work became an issue in the long term, and to ensure this work is still available, he now self-hosts a public website. Work published by the SF Chronicle was only available in print and/or paywalled, adding similar issues to the sharing and coverage of his work. 
-Brandon is looking to explore options to capture and preserve the work published on websites that are subject to disappearance or ‘Link Rot’, as well as find solutions that are less costly than the current self-hosting solution, that can be easily used by other creators that are also looking to solve the link rot problem.
-
-#### Proposed Solution
-Technology over the past few decades has progressed at a breakneck speed. The storage and hosting we used for various media technologies one or two decades ago has completely changed, moving from records, to 8-tracks, magnetic tapes, CDs, and now media is stored digitally on the drives of various devices. We anticipate a similar rapid evolution in the technology we use to publish over the next few decades. The internet has also evolved from static sites created by a few and viewed by many, to a wide array of social media and blogging sites that make everyone contributors to the world wide web. 
-
-With the Link Rot project, we anticipate that the next few decades will continue to bring about a similar change and evolution in the technology used to store and share information, and we want to publish journalists’ work in a way that is accessible in both current systems, and published on distributed, future-facing solutions such as IPFS and Hypercore. This project will also be archived in the distributed Filecoin storage network. 
 
 ### Staging Website
 
 [https://syriastreet.testing.sutty.nl/](https://syriastreet.testing.sutty.nl/)
+
 # Project Summary
 
 ## Project Goals
