@@ -1,3 +1,4 @@
+# About Syria Street
 This Website is hosted at https://syriastreet.brandontauszik.com/
 
 In this project, we sought to prototype a way to preserve and protect journalist’s work and portfolio from link rot. Link rot refers to the phenomenon in which hyperlinks or URLs on the internet become broken or inaccessible over time.
