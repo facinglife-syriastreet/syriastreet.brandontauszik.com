@@ -22,6 +22,7 @@ This website can also be found on several peer-to-peer data sharing networks. To
 Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. 
 
 **Registration Records**
+
 You can view the registration records of the of the [main](https://bafkreifa3n2n2qhsmykjwjayir3gukffwvh5edjfjp63v6vfhn6uko6yty.ipfs.w3s.link/) and [nov-16](https://bafybeihas2sbg2wvcq3zpnb3gcvlyhlc4g3ks3khtwr5cmtjjon22w5vea.ipfs.w3s.link/syria-street-nov-16-2023-12-14T17-19-17Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/syriastreet.com](https://github.com/link-rot-project/syriastreet.com). 
 
 **Archive Copies of Repos**:
@@ -34,10 +35,12 @@ The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqa
 
 ^ This is a zip of the Git Repo that can be downloaded, and put onto any static website hosting service
   
-#### Project Goals
+# Project Summary
+
+## Project Goals
 This project aims to explore ways that a journalist can preserve the content they’ve created, either for an established publication or self-published. In addition to their own work, this could also include the preservation of subsequent articles that cover the journalist’s work (ex: to show impact or earned media).
 
-#### Challenge
+## Challenge
 As an independent journalist, Brandon’s work is often vulnerable to disappearing from the internet. Even when published by a large outlet like the Red Cross, the maintenance and hosting of his work became an issue in the long term, and to ensure this work is still available, he now self-hosts a public website. Work published by the SF Chronicle was only available in print and/or paywalled, adding similar issues to the sharing and coverage of his work. 
 Brandon is looking to explore options to capture and preserve the work published on websites that are subject to disappearance or ‘Link Rot’, as well as find solutions that are less costly than the current self-hosting solution, that can be easily used by other creators that are also looking to solve the link rot problem.
 
