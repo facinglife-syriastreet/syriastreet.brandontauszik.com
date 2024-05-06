@@ -49,8 +49,6 @@ Technology over the past few decades has progressed at a breakneck speed. The st
 
 With the Link Rot project, we anticipate that the next few decades will continue to bring about a similar change and evolution in the technology used to store and share information, and we want to publish journalists’ work in a way that is accessible in both current systems, and published on distributed, future-facing solutions such as IPFS and Hypercore. This project will also be archived in the distributed Filecoin storage network. 
 
-
-
 ### Staging Website
 
 [https://syriastreet.testing.sutty.nl/](https://syriastreet.testing.sutty.nl/)
