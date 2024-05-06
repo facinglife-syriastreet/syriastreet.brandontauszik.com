@@ -19,7 +19,14 @@ This website can also be found on several peer-to-peer data sharing networks. To
     * https://syriastreet-brandontauszik-com.hyper.hypha.coop/ (Hypercore gateway operated by Hypha)
 
 ## Archives
-Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. You can view the registration records of the of the [main](https://bafkreifa3n2n2qhsmykjwjayir3gukffwvh5edjfjp63v6vfhn6uko6yty.ipfs.w3s.link/) and [nov-16](https://bafybeihas2sbg2wvcq3zpnb3gcvlyhlc4g3ks3khtwr5cmtjjon22w5vea.ipfs.w3s.link/syria-street-nov-16-2023-12-14T17-19-17Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/syriastreet.com](https://github.com/link-rot-project/syriastreet.com). 
+Archives of this zip of this Github repo have been registered on the Filecoin distributed storage network. 
+
+**Registration Records**
+You can view the registration records of the of the [main](https://bafkreifa3n2n2qhsmykjwjayir3gukffwvh5edjfjp63v6vfhn6uko6yty.ipfs.w3s.link/) and [nov-16](https://bafybeihas2sbg2wvcq3zpnb3gcvlyhlc4g3ks3khtwr5cmtjjon22w5vea.ipfs.w3s.link/syria-street-nov-16-2023-12-14T17-19-17Z.zip.json) branches of this website as it existed from the archived repository at [https://github.com/link-rot-project/syriastreet.com](https://github.com/link-rot-project/syriastreet.com). 
+
+**Archive Copies of Repos**:
+* [syria-street-nov-16.zip](https://bafybeidnwxldu4tesxgnfsomshh5epc2knyjcq5xpjezdssck3kuxejqh4.ipfs.w3s.link/)
+* [syria-street-main.zip](https://bafybeiccfmd5qqtafonp2g6wph3ufryf66mnt6snhdjrjwbixr7xry4the.ipfs.w3s.link/)
 
 The Filecoin archives can be viewed at [https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi](https://filecoin.tools/baga6ea4seaqd2qqaub6igcumpsyy6ggzlfiueducb7us5mbs6try4nc57qnduoi)
 
